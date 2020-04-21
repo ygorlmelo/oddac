@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Objeto Digital Distribuído de Aprendizado Colaborativo (ODDAC) - IPI
 
 You can use the [editor on GitHub](https://github.com/ygorlmelo/oddac/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
