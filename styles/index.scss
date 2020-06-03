@@ -99,8 +99,7 @@ a:hover {
 }
 
 .artigo {
-  margin-top: 0px;
-  margin: 50px;
+  margin: 15px 50px;
 }
 
 .data {
@@ -131,4 +130,14 @@ a {
 
 .wall:target {
   display: block;
+}
+
+.img-flex {
+  display: flex;
+  flex-direction: row-reverse;
+  margin-right: 50px;
+  margin-top: 30px;
+}
+.espc {
+  margin-right: 5px;
 }
